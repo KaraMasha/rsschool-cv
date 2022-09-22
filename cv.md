@@ -4,7 +4,6 @@
 1. Phone: +380677874695
 2. E-mail: tgrmk@gmail.com
 ### Summary of Qualifications
-
 I am starting Frontend developer.
 Participated in small projects as of today. Previously had experience in different industry. My knowledge of English is on Upper-Intermediate level.
 
