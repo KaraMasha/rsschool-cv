@@ -23,6 +23,7 @@ I am eager to learn and develop knowledge in this direction. Also I am eager to 
     * Microsoft Windows 7/8/10
     * MacOS X
 
+
 ### Code Example
 ***DESCRIPTION:***
 *This code does not execute properly. Try to figure out why.*
@@ -31,10 +32,12 @@ multiply = function (a, b) {
   return a * b;
 }
 ```
+----------
 ### Education
 + JavaScript.ru in process
 + GoIT Marathon
 + RSSchool in process
+=======
 ### Languages
 - English – Upper-Intermediate
 - Ukrainian – Native Speaker
